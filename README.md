@@ -1,1 +1,5 @@
-A simple HTML/JS/CSS starter template
+#GSAP LESSON DAY 1
+stagger 
+repeat 
+yoyo
+timeline()
